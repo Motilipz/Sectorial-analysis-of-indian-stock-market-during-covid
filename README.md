@@ -1,0 +1,2 @@
+# Sectorial-analysis-of-indian-stock-market-during-covid
+The Stock Market was Very Volatile during the COVID-19, so I took the data sector-wise stock data from the stock market before and during COVID-19 and analyzed how the lockdowns and unlocks affected the different sectors of the Indian market by using models like linear regression, correlation analysis. then measure the dispersion and visualize it.
